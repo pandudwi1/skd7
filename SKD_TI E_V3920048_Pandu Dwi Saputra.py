@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[32]:
-
-
 import numpy as np
 from egcd import egcd  # pip install egcd
 
